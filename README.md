@@ -17,7 +17,7 @@ Data source from 2008-2017 - CricSheet.org and Manas - Kaggle
 Data source for 2018-2019 - IPL T20 - Official website
 
 ##### Inspiration
-Draw analysis, player/team performance, apply and learn statistical methods on real da
+Draw analysis, player/team performance, apply and learn statistical methods on real data
 
 ## Aim 
 
