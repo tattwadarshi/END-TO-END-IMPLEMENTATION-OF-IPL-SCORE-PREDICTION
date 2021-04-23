@@ -57,7 +57,7 @@ It helps us to setup environment for streamlit library.
 **Flasgger**
 This will help us to create the UI part in a much feasible and easy way. It won't be that decorative but it would be a good front end web app. In Flasgger, Swagger will automatically generate the frontend UI part. 
 
-In this repository, we have performed implementation of end To end kaggle machine learning project for car price prediction with deployment.
+In this repository, we have performed implementation of end To end kaggle machine learning project for IPL Score Prediction with deployment.
 
 
 ### 🟢 For EDA + Model Building, please refer to: IPL PYTHON.ipynb
